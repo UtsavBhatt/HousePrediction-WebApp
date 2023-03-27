@@ -30,8 +30,7 @@ If you find a bug or would like to contribute to this project, please open an is
 
 Acknowledgments
 This project was inspired by the work of many data scientists and developers who have created similar apps and tools. Special thanks to the creators of Streamlit, PyCaret, and CatBoost for their contributions to the data science community.
-.png)
-![3D Map](./3D Map![3D Map](https://user-images.githubusercontent.com/54443931/227762128-b1ccafb7-af33-45da-94c5-ba0a20475d08.PNG)
+![3D Map](https://user-images.githubusercontent.com/54443931/227762128-b1ccafb7-af33-45da-94c5-ba0a20475d08.PNG)
 
 
 
